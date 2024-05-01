@@ -53,7 +53,6 @@ Além de fortalecer minhas habilidades técnicas, minha jornada em projetos pess
 <div style="display: inline_block"><br> 
 
   <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-  <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-plain.svg">
 </div>
 
   
