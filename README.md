@@ -22,7 +22,7 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 ## Tecnologias mais utilizadas
 
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss26&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss-science&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
 ### 💻 Estudando atualmente tecnologias Front - end
