@@ -13,7 +13,9 @@
   
 ### 📖 Sobre mim
 
-Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a TI como grande ponto de propulsão para o negócio. Tive a oportunidade de criar projetos acadêmicos e pessoais para aprimorar boas praticas de arquitetura no padrão MVC e procedural com a intenção de adquirir experiência e resolução de problemas com vários assuntos da vida.
+Estou me dedicando à especialização na análise de dados, focando em criar Dashboards utilizando Python, Power BI, Sqlite e PostgreSQL para gerenciar bancos de dados relacionais em uma variedade de áreas temáticas.
+
+Além de fortalecer minhas habilidades técnicas, minha jornada em projetos pessoais e acadêmicos tem sido uma oportunidade para o desenvolvimento de qualidades pessoais igualmente importantes. Tenho cultivado uma mentalidade colaborativa, estabelecido relacionamentos positivos com colegas de faculdade, demonstrado abertura para feedbacks, mostrado resiliência diante de desafios, refinado minhas habilidades de análise crítica e aprimorado minha capacidade de resolver problemas de forma eficaz.
 
 </details>
 
