@@ -14,9 +14,11 @@
   
 ### 📖 Sobre mim
 
-Estou me dedicando à especialização na análise de dados, focando em criar Dashboards utilizando Python, Power BI, Sqlite e PostgreSQL para gerenciar bancos de dados relacionais em uma variedade de áreas temáticas.
+Estou me especializando como assistente de ciência de dados, com foco em atender às necessidades dos clientes na configuração e otimização de ambientes de dados, manutenção de sistemas de banco de dados modernos, resolução de problemas técnicos relacionados à coleta, armazenamento e análise de dados, orientação sobre o uso de ferramentas de análise e especificações mínimas para a implementação de softwares e plataformas de ciência de dados.
 
-Além de fortalecer minhas habilidades técnicas, minha jornada em projetos pessoais e acadêmicos tem sido uma oportunidade para o desenvolvimento de qualidades pessoais igualmente importantes. Tenho cultivado uma mentalidade colaborativa, estabelecido relacionamentos positivos com colegas de faculdade, demonstrado abertura para feedbacks, mostrado resiliência diante de desafios, refinado minhas habilidades de análise crítica e aprimorado minha capacidade de resolver problemas de forma eficaz.
+Para Análise de dados possuo experiências de projetos pessoais com a linguagem de programação python com a ferramenta de inteligências de nêgocio no Power BI e banco de dados relacionais chamado Postegresql e My sql
+
+Além de fortalecer minhas habilidades técnicas, minha jornada em projetos pessoais e acadêmicos tem sido uma oportunidade para desenvolver qualidades pessoais igualmente importantes. Tenho cultivado uma mentalidade colaborativa, estabelecido relacionamentos positivos com colegas de faculdade, demonstrado abertura para feedbacks, mostrado resiliência diante de desafios, refinado minhas habilidades de análise crítica e aprimorado minha capacidade de resolver problemas de forma eficaz.
 
 </details>
 
